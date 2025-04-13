@@ -11,3 +11,5 @@ This is a repository of inverted pendulum body CAD files.
 Please refer to the YouTube link below for details of the production.
 
 https://www.youtube.com/watch?v=W9z1Mw9BegU
+
+./sample_pic1.png
