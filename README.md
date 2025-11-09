@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=W9z1Mw9BegU
 
 //
 
-Copyright (c) 2025/Apr/20, hir (hir4484@gmail.dom). Available under the MIT License. For more information, see LICENSE.
+Copyright (c) 2025/Apr/20, hir (hir4484@gmail.com). Available under the MIT License. For more information, see LICENSE.
